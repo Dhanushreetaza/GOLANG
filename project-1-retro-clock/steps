@@ -1,3 +1,6 @@
 Create placeholders/numbers of the digital clock 0-9 , colon
+create main function
+import "github.com/inancgumus/screen" which is used for handling terminal screen manipulation
+
 
 
